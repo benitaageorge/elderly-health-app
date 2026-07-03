@@ -1,0 +1,7 @@
+our project that helped us win runner up in HACKSUS 2026 Astrax Course at Rajagiri School of Engineering and Technology !
+
+
+this webapp provides assistance to both caretakers and the patients, catering to the elderly. the webapp monitors each patient, their blood pressure heart rate, breathing rate etc. through an external device. initially, a testing phase is required to determine each patients baseline readings- to determine what the normal is for them (ideally the testing phase should be done when the patient is physically and mentally healthy). the app shows the patient's readings in a dashboard; the patient's medication, health complication and potential risks which are determined are also available to be viewed by the caretaker and the patient's guardian.
+later, the app can detect anomalies that defer from the patient's baseline readings and immediately alert caretakers nearby. the webapp, in case of such situations, will accordingly select a caretaker based on certain factors- the current shift length of the caretaker (to avoid burnout), what the caretaker is currently engaged in, and the level of the activity they're currently engaged in, as well as proximity to the patient. 
+  
+  this application takes both the patient's condition as well as the caretaker's well-being in account to provide maximum attention and care without hindering the quality of the treatment. also, a special portal is available for the patient's guardians to view their ward's stats, reports and medicines.
